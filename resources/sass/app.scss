@@ -1,0 +1,29 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+//fonts
+$fa-font-path: '../webfonts';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//BootstrapVue
+
+@import '~bootstrap-vue/src/index.scss';
+
+//admin-lte
+@import '~admin-lte/dist/css/adminlte.css';
+
+//fontawesome
+@import '@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '@fortawesome/fontawesome-free/scss/solid.scss';
+@import '@fortawesome/fontawesome-free/scss/brands.scss';
+
+//editor
+// @import '@toast-ui/editor/dist/toastui-editor.css';
+// @import '~codemirror/lib/codemirror.css';
+
+// node_modules\@toast-ui\editor\dist\toastui-editor.css
